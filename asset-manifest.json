@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deploy-portfolio/static/css/main.cee1f0b2.chunk.css",
+    "main.js": "/deploy-portfolio/static/js/main.d36cb7fd.chunk.js",
+    "main.js.map": "/deploy-portfolio/static/js/main.d36cb7fd.chunk.js.map",
+    "runtime-main.js": "/deploy-portfolio/static/js/runtime-main.ccba90f6.js",
+    "runtime-main.js.map": "/deploy-portfolio/static/js/runtime-main.ccba90f6.js.map",
+    "static/js/2.e216d209.chunk.js": "/deploy-portfolio/static/js/2.e216d209.chunk.js",
+    "static/js/2.e216d209.chunk.js.map": "/deploy-portfolio/static/js/2.e216d209.chunk.js.map",
+    "index.html": "/deploy-portfolio/index.html",
+    "precache-manifest.a3cc4d9338022ced815008e803b31978.js": "/deploy-portfolio/precache-manifest.a3cc4d9338022ced815008e803b31978.js",
+    "service-worker.js": "/deploy-portfolio/service-worker.js",
+    "static/css/main.cee1f0b2.chunk.css.map": "/deploy-portfolio/static/css/main.cee1f0b2.chunk.css.map",
+    "static/js/2.e216d209.chunk.js.LICENSE.txt": "/deploy-portfolio/static/js/2.e216d209.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/deploy-portfolio/static/media/wendyportfolio.ce98b3c3.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccba90f6.js",
+    "static/js/2.e216d209.chunk.js",
+    "static/css/main.cee1f0b2.chunk.css",
+    "static/js/main.d36cb7fd.chunk.js"
+  ]
+}
